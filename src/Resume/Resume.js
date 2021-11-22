@@ -6,7 +6,7 @@ export default class App extends React.Component {
     return (
     <div class={styles.container}>
       <div>
-        <img src="/Resume.jpg" alt="Resume" class={styles.image} />
+        <img src="/ResumePage.svg" alt="Resume" class={styles.image} />
         <div class={styles.overlay}> Hire me pls </div>
       </div>
     </div>

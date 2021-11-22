@@ -7,7 +7,7 @@ export default class App extends React.Component {
     <div class={styles.container}>
       <div>
         <img src="/ResumePage.svg" alt="Resume" class={styles.image} />
-        <div class={styles.overlay}> Hire me pls </div>
+        <div class={styles.overlay}> Hire me pls :)</div>
       </div>
     </div>
     );
